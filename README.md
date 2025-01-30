@@ -1,10 +1,10 @@
-Secure Password Vault 🔐
+**Secure Password Vault 🔐**
 
 Overview
 
 Secure Password Vault is a sleek and secure web application designed to store and manage passwords for various websites and apps. Built using HTML, CSS, Bootstrap, and JavaScript, it provides a modern UI, password validation, and quick access to stored credentials.
 
-Features 🚀
+**Features 🚀**
 
 User-Friendly Interface – Clean and professional design with easy-to-use controls.
 
@@ -18,7 +18,7 @@ Bootstrap Icons & Styling – Enhances UI with icons and consistent styling.
 
 Dynamic Password List – Allows users to store and manage their credentials.
 
-Tech Stack 💻
+**Tech Stack 💻**
 
 HTML5 & CSS3 – For structure and styling.
 
@@ -28,7 +28,7 @@ JavaScript (ES6) – Handles password storage and interactions.
 
 Google Fonts & FontAwesome – Used for typography and icons.
 
-How to Use? 🛠
+**How to Use? 🛠**
 
 Select a website/app from the dropdown list.
 
@@ -38,7 +38,7 @@ Click "Save Password" – The app stores and masks your password.
 
 View stored passwords with a direct link to the website.
 
-Deployment 📡
+**Deployment 📡**
 
 You can deploy this project using:
 
@@ -48,7 +48,7 @@ Netlify
 
 Vercel
 
-Contribute 🤝
+**Contribute 🤝**
 
 Want to improve the project? Fork the repo, add your changes, and submit a PR! 🚀
 
